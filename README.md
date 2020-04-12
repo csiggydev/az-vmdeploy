@@ -1,2 +1,2 @@
 # az-vmdeploy
-Deploy Azure Virtual Machines in Bash Shell using Azure CLI
+Deploy Azure Virtual Machines from Bash Shell using Azure CLI
